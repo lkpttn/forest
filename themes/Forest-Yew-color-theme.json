@@ -4,7 +4,7 @@
   "colors": {
     // Editor
     "editor.background": "#151D1A",
-    "editor.foreground": "#BFB47A",
+    "editor.foreground": "#F6D98F",
     "editorGutter.background": "#151D1A",
     "editorGutter.modifiedBackground": "#e2b93d",
     "editorGutter.addedBackground": "#9CCC65",
@@ -69,7 +69,7 @@
 
     // Status bar - TODO
     "statusBar.background": "#1C3230",
-    "statusBar.foreground": "#BFB47A",
+    "statusBar.foreground": "#F6D98F",
     "statusBar.border": "#1C3230",
     "statusBar.debuggingBackground": "#202431",
     "statusBar.debuggingForeground": null,
@@ -267,7 +267,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#BFB47A"
+        "foreground": "#F6D98F"
       }
     },
     {

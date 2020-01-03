@@ -12,6 +12,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Forest - Boreal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Forest-Boreal-color-theme.json"
+      },
+      {
         "label": "Forest - Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/Forest-Midnight-color-theme.json"
