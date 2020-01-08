@@ -16,7 +16,7 @@
 
     // Breadcrumb
     "breadcrumb.foreground": "#406A5A",
-    "breadcrumb.focusForeground": "#9CCCA3",
+    "breadcrumb.focusForeground": "#A9D8C0",
     "breadcrumb.activeSelectionForeground": "#FFFFFF",
     "breadcrumbPicker.background": "#151D1A",
 
@@ -26,18 +26,18 @@
     "sideBar.border": "#25453D",
     "sideBarTitle.foreground": "#25453D",
     "sideBarSectionHeader.background": "#151D1A",
-    "sideBarSectionHeader.foreground": "#9CCCA3",
+    "sideBarSectionHeader.foreground": "#A9D8C0",
 
     // List
     "list.activeSelectionBackground": "#25453D",
-    "list.activeSelectionForeground": "#9CCCA3",
+    "list.activeSelectionForeground": "#A9D8C0",
     "list.invalidItemForeground": "#975f94",
     "list.dropBackground": "#151D1A",
     "list.focusBackground": "#151D1A",
-    "list.focusForeground": "#9CCCA3",
-    "list.highlightForeground": "#9CCCA3",
+    "list.focusForeground": "#A9D8C0",
+    "list.highlightForeground": "#A9D8C0",
     "list.hoverBackground": "#151D1A",
-    "list.hoverForeground": "#9CCCA3",
+    "list.hoverForeground": "#A9D8C0",
     "list.inactiveSelectionBackground": "#25453D",
     "list.inactiveSelectionForeground": "#406A5A",
 
@@ -49,7 +49,7 @@
     "editorGroupHeader.tabsBackground": "#151D1A",
     "editorGroupHeader.tabsBorder": "#25453D",
     "tab.activeBackground": "#25453D",
-    "tab.activeForeground": "#9CCCA3",
+    "tab.activeForeground": "#A9D8C0",
     "tab.border": "#25453D",
     "tab.activeBorder": "#25453D",
     "tab.unfocusedActiveBorder": "#25453D",
@@ -84,7 +84,7 @@
 
     // Title bar
     "titleBar.activeBackground": "#1a2523",
-    "titleBar.activeForeground": "#9CCCA3",
+    "titleBar.activeForeground": "#A9D8C0",
     "titleBar.inactiveBackground": "#1a2523",
     "titleBar.inactiveForeground": null
   },
@@ -210,7 +210,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#9CCCA3",
+        "foreground": "#A9D8C0",
         "fontStyle": "italic"
       }
     },
@@ -343,7 +343,7 @@
       "name": "JavaScript Method Declaration e.g. `constructor`",
       "scope": "meta.method.declaration storage.type.js",
       "settings": {
-        "foreground": "#9CCCA3",
+        "foreground": "#A9D8C0",
         "fontStyle": ""
       }
     },
@@ -358,7 +358,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#9CCCA3"
+        "foreground": "#A9D8C0"
       }
     },
     {
