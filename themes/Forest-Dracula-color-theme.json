@@ -44,7 +44,7 @@
     "scrollbar.shadow": null,
     "scrollbarSlider.activeBackground": null,
     "scrollbarSlider.background": "#406a5a75",
-    "scrollbarSlider.hoverBackground": "#9ccca33f",
+    "scrollbarSlider.hoverBackground": "#A9D8C03f",
 
     // Badge
     "badge.background": "#25453D",
@@ -70,7 +70,7 @@
     "activityBar.background": "#0B1A17",
     "activityBar.dropBackground": "#25453D",
     "activityBar.foreground": "#A9D8C0",
-    "activityBar.border": "#25453D",
+    "activityBar.border": "#0B1A17",
     "activityBarBadge.background": "#25453D",
     "activityBarBadge.foreground": "#ffffff",
 
@@ -158,7 +158,7 @@
     "editorHoverWidget.background": "#25453D",
     "editorHoverWidget.border": "#1C3230",
 
-    "debugExceptionWidget.background": "#151D1A",
+    "debugExceptionWidget.background": "#0B1A17",
     "debugExceptionWidget.border": "#25453D",
 
     "editorMarkerNavigation.background": "#0b2942", // Todo
@@ -187,10 +187,10 @@
     "merge.border": null,
 
     // Panel
-    "panel.background": "#151D1A",
+    "panel.background": "#0B1A17",
     "panel.border": "#25453D",
     "panelTitle.activeBorder": "#25453D",
-    "panelTitle.activeForeground": "#9CCCA3",
+    "panelTitle.activeForeground": "#A9D8C0",
     "panelTitle.inactiveForeground": "#406A5A",
 
     // Breadcrumb
@@ -202,7 +202,7 @@
     // Sidebar
     "sideBar.background": "#0B1A17",
     "sideBar.foreground": "#406A5A",
-    "sideBar.border": "#151D1A",
+    "sideBar.border": "#0B1A17",
     "sideBarTitle.foreground": "#25453D",
     "sideBarSectionHeader.background": "#0B1A17",
     "sideBarSectionHeader.foreground": "#A9D8C0",
@@ -223,21 +223,21 @@
     "statusBarItem.prominentHoverBackground": "#406A5A",
 
     // Title bar
-    "titleBar.activeBackground": "#1a2523",
+    "titleBar.activeBackground": "#0B1A17",
     "titleBar.activeForeground": "#A9D8C0",
-    "titleBar.inactiveBackground": "#1a2523",
-    "titleBar.inactiveForeground": null,
+    "titleBar.inactiveBackground": "#0B1A17",
+    "titleBar.inactiveForeground": "#406A5A",
 
     // Notifications
-    "notifications.background": "#151D1A",
+    "notifications.background": "#0B1A17",
     "notifications.border": "#25453D",
     "notificationCenter.border": "#25453D",
     "notificationToast.border": "#25453D",
-    "notifications.foreground": "#9CCCA3",
+    "notifications.foreground": "#A9D8C0",
     "notificationLink.foreground": "#80CBC4",
 
     // Extensions
-    "extensionButton.prominentForeground": "#9CCCA3",
+    "extensionButton.prominentForeground": "#A9D8C0",
     "extensionButton.prominentBackground": "#25453D",
     "extensionButton.prominentHoverBackground": "#406A5A",
 
