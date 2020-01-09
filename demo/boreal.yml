@@ -1,13 +1,13 @@
 Boreal Theme
 
 Colors:
-BG: '#151D1A'
+BG: '#0B1A17'
 BG+1: "#1C3230"
 BG+2: '#25453D'
 BG+3: '#406A5A'
-BG+4: '#9CCCA3'
+BG+4: '#A9D8C0'
 
-Foreground: '#9CCCA3'
+Foreground: '#A9D8C0'
 Selection: '#25453D'
 Comment: '#406A5A'
 
