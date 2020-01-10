@@ -17,11 +17,6 @@
         "path": "./themes/Forest-Boreal-color-theme.json"
       },
       {
-        "label": "Forest - Dracula",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Forest-Dracula-color-theme.json"
-      },
-      {
         "label": "Forest - Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/Forest-Midnight-color-theme.json"
