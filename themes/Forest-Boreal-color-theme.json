@@ -99,10 +99,10 @@
 
     "editorCursor.foreground": "#A9D8C0",
 
-    "editor.selectionBackground": "#1C3230",
+    "editor.selectionBackground": "#25453D",
     "editor.selectionHighlightBackground": "#466e6b9d", // Todo
     "editor.inactiveSelectionBackground": "#1C323097", // Todo
-    "editor.wordHighlightBackground": "#f6bbe533", // Todo
+    "editor.wordHighlightBackground": "#A9D8C033", // Todo
     "editor.wordHighlightStrongBackground": "#e2a2f433",
     "editor.findMatchBackground": "#25453D",
     "editor.findMatchHighlightBackground": "#406A5A75",
