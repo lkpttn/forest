@@ -322,7 +322,7 @@
       "name": "Number",
       "scope": ["constant.numeric", "constant.character.numeric"],
       "settings": {
-        "foreground": "#81D093",
+        "foreground": "#E5E7B8",
         "fontStyle": ""
       }
     },
@@ -483,7 +483,7 @@
       "name": "Support Constant Property Value meta",
       "scope": "support.constant.meta.property-value",
       "settings": {
-        "foreground": "#7BA1AA"
+        "foreground": "#81D093"
       }
     },
     {
@@ -670,14 +670,14 @@
       "name": "Constant Other Color",
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#7CAE88"
+        "foreground": "#81D093"
       }
     },
     {
       "name": "Keyword Other Unit",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#7CAE88"
+        "foreground": "#DCB678"
       }
     },
     {
@@ -819,14 +819,14 @@
         "keyword.control"
       ],
       "settings": {
-        "foreground": "#7BA1AA"
+        "foreground": "#81D093"
       }
     },
     {
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#466E6B"
+        "foreground": "#7BA1AA"
       }
     },
     {
@@ -1036,7 +1036,7 @@
       "name": "CSS Keyword Other Unit",
       "scope": "keyword.other.unit.css",
       "settings": {
-        "foreground": "#7CAE88"
+        "foreground": "#DCB678"
       }
     },
     {
@@ -1399,7 +1399,7 @@
       "name": "LESS Keyword Other Unit",
       "scope": "keyword.other.unit.css",
       "settings": {
-        "foreground": "#7CAE88"
+        "foreground": "#DCB678"
       }
     },
     {
@@ -1648,7 +1648,7 @@
       "name": "SASS Keyword Other Unit",
       "scope": ["keyword.other.unit.scss", "keyword.other.unit.sass"],
       "settings": {
-        "foreground": "#7CAE88"
+        "foreground": "#DCB678"
       }
     },
     {
