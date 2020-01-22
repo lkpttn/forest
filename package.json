@@ -3,8 +3,13 @@
   "displayName": "Forest",
   "description": "A nature-inspired color theme",
   "version": "0.0.1",
+  "publisher": "lkpttn",
   "engines": {
     "vscode": "^1.41.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lkpttn/forest"
   },
   "categories": [
     "Themes"
