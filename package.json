@@ -2,7 +2,7 @@
   "name": "forest",
   "displayName": "Forest",
   "description": "A nature-inspired color theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "lkpttn",
   "engines": {
     "vscode": "^1.41.0"
